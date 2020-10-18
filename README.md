@@ -19,7 +19,7 @@ Construction of any model requies assumptions. Here is a list of the main assump
 * Announcements, relevant to holidays and remote schooling are known for 7 days prior to the commencement date.
 
 <h3> Model </h3>
-The model uses an encoder-decoder architecture. An excellent explanation of use cases and can be found in this [article](/https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346). It was applied to time series in this [article](/https://towardsdatascience.com/encoder-decoder-model-for-multistep-time-series-forecasting-using-pytorch-5d54c6af6e60). The following picture, taken from the latter article, offers a good illustration of how the model works:
+The model uses an encoder-decoder architecture. An excellent explanation of use cases and can be found in [this article](https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346/). It was applied to time series in [this article](/https://towardsdatascience.com/encoder-decoder-model-for-multistep-time-series-forecasting-using-pytorch-5d54c6af6e60/). The following picture, taken from the latter article, offers a good illustration of how the model works:
 
 ![ ](https://miro.medium.com/max/1000/1*62xsdc5F5DNdLXluQojeBg.png  "Encoder-Decoder model")
 
