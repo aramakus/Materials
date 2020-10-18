@@ -1,0 +1,31 @@
+Victoria energy demand, 30 min intervals
+https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data
+
+https://www.energy.gov.au/sites/default/files/australian_energy_statistics_2019_energy_update_report_september.pdf
+
+Energy consumption measures the amount of energy used in the Australian
+economy. It is equal to domestic production plus imports minus exports (and
+changes in stocks). It includes energy consumed in energy conversion
+activities (such as electricity generation and petroleum refining), but nets off
+derived or secondary fuels (such as electricity and refined oil products)
+produced domestically to avoid double counting of energy. It is equivalent to
+total primary energy supply. Further detail is provided in Department of the
+Environment and Energy (2019) Guide to the Australian Energy Statistics
+
+
+Student numbers
+https://www.studiesinaustralia.com/Blog/australian-education-news/the-facts-and-figures-of-international-students-in-australia
+https://www.studymelbourne.vic.gov.au/about-study-melbourne/international-student-experience
+
+Retail Turnover
+https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
+
+Retail, goods and Services
+https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia/aug-2020/536801.xls
+
+Alumina (10% of all consumption)
+https://www.theage.com.au/national/victoria/alcoa-insight-cover-shell-20170105-gtm63l.html
+
+
+List of solar farms in Victoria
+https://en.wikipedia.org/wiki/List_of_power_stations_in_Victoria_(Australia)#cite_note-:1-1
