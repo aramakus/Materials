@@ -19,8 +19,8 @@ Construction of any model requies assumptions. Here is a list of the main assump
 * Announcements, relevant to holidays and remote schooling are known for 7 days prior to the commencement date.
 
 <h3> Model </h3>
-The model uses an encoder-decoder architecture. An excellent explanation of use cases and can be found in https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346. It was applied to time series in https://towardsdatascience.com/encoder-decoder-model-for-multistep-time-series-forecasting-using-pytorch-5d54c6af6e60. The following picture, taken from the latter article, offers a good illustration of how the model works:
+The model uses an encoder-decoder architecture. An excellent explanation of use cases and can be found in https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346. The diagram shows how the model works:
 
-![ ](https://miro.medium.com/max/1000/1*62xsdc5F5DNdLXluQojeBg.png  "Encoder-Decoder model")
+[Image]("Plots+/schema.png"  "Encoder-Decoder model")
 
 The model uses 2 weeks of prior data to produce a forecast for electricity demand for the following 7 days. It was trained on the data from January 2015 to January 2019. Throughout training the data for 2019 was used as a validation set. The model states were saved once a new best value for L1 loss on validation set was achieved (callback). After training, the model was used to produce a forecast for the whole 2019 and for a period from January to October of 2020.  
